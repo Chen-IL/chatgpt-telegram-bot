@@ -128,6 +128,8 @@ Check out the [official API reference](https://platform.openai.com/docs/api-refe
 | `gtts_text_to_speech`     | Text to speech (powered by Google Translate APIs)                                                                                                   | -                                                                    | `gtts`              |
 | `whois`                   | Query the whois domain database - by [@jnaskali](https://github.com/jnaskali)                                                                       | -                                                                    | `whois`             |
 | `webshot`                 | Screenshot a website from a given url or domain name - by [@noriellecruz](https://github.com/noriellecruz)                                          | -                                                                    |                     |
+| `currency`                  | Daily and historic foreign currency conversion rates (powered by [exchangerate.host](https://exchangerate.host)) - by [@Chen-IL](https://github.com/Chen-IL)                                 | -                                                                    |                     |
+
 
 #### Environment variables
 | Variable                          | Description                                                                                                                                                                                     | Default value                       |
